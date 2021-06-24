@@ -1,23 +1,24 @@
-### Hi there 👋
+# Ehitel Rodriguez
 
-<!--
-**mortroguez/mortroguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Main technologies :atom:
 
-Here are some ideas to get you started:
+<div style="display: flex">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="10%" height="10%">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="10%" height="10%">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="10%" height="10%">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="10%" height="10%">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="10%" height="10%">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="10%" height="10%">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="10%" height="10%">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="10%" height="10%">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mortroguez&show_icons=true&theme=radical)
+## Github Stats :briefcase:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mortroguez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mortroguez&show_icons=true&theme=dark)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mortroguez)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mortroguez&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Ehitel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mortroguez&theme=dark&v2)](https://github.com/anuraghazra/github-readme-stats)
