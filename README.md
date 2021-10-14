@@ -12,6 +12,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="10%" height="10%">
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="10%" height="10%">
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="10%" height="10%">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="10%" height="10%">
 </div>
 
 ---
