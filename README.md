@@ -23,6 +23,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mortroguez&layout=compact&theme=dark&&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github.com/mortroguez/mortroguez/blob/master/images/codeStats.svg" alt="Alternative Text"/>
-Example: <img src="https://github.com/tariksahni/tariksahni/blob/master/codeStats.svg" alt="My Coding Activity/>
+<img src="https://github.com/mortroguez/mortroguez/blob/main/images/codeStats.svg" alt="Alternative Text"/>
 
